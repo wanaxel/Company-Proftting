@@ -3,6 +3,7 @@ simple code  i created for collegue project using java and using a 0/1 Knapsack 
 
 ## Showcase 
 ![image](https://github.com/user-attachments/assets/396090a5-77fb-483e-b960-53f68cb48ba1)
+
 ![image](https://github.com/user-attachments/assets/ae480205-e821-4070-a64e-b3ba6f8483fc)
 ![image](https://github.com/user-attachments/assets/f9f504dc-0191-4113-8128-b1fca95167b1)
 ![image](https://github.com/user-attachments/assets/10ac4e97-5cbc-4f7a-8bd5-eac9414a3502)
